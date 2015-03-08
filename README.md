@@ -13,6 +13,8 @@ Zupa.
 
 -------------------------------------------------------
 
+###Installation : 
+
 1. Put the mission file in the MPMissions Folder
 2. Put Server.pbo in the @DayZ_Epoch_Server\addons
 3. Upload the provided DLL files in the correct place
